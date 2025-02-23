@@ -22,7 +22,7 @@ export default function Footer() {
           </div>
           <p className="text-center mt-5 font-bold">
             © freshCart, All Right Reserved. Made By{" "}
-            <span className="text-emerald-700">Basem Said</span>
+            <span className="text-emerald-700">Amr Khaled</span>
           </p>
         </div>
       </footer>
